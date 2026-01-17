@@ -1,0 +1,7 @@
+{
+  "name": "CrochetBuddy AI",
+  "description": "A smart crochet companion app that generates custom patterns, tracks stitches, and provides a comprehensive library of crochet techniques.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
